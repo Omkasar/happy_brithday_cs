@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #02020A;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #02020A;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #02020A;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #02020A;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #02020A;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #02020A;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #02020A;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #02020A;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #02020A;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #02020A;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #02020A;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #02020A;
 	}
 }
 
@@ -1275,8 +1275,8 @@ audio {
 	font-family: 'Signika', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
-	color: #C4515C;
-	text-shadow: 2px 2px 2px #FFF;
+	color: #B4D2E7;
+	/* text-shadow: 2px 2px 2px #FFF; */
 	display: none;
 	font-weight: bold;
 }
